@@ -1,4 +1,4 @@
-### Hi there, I'm @kamioki 👋   
+### 👋 Hi there, I'm @kamioki
 
 - :owl: I’m a researcher/ornithologist
 - :hatching_chick: And a newly graduated software developer (Master of IT)
