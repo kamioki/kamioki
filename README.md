@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm @kamioki
 
-- :owl: I’m a researcher/ornithologist
+- :owl: I’m an ecologist (Expertise: ornithology)
 - :hatching_chick: And a newly graduated software developer (Master of IT)
 - :computer: I’m currently learning on JavaScript, Python, React, R... literally everything about coding!
 
